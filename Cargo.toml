@@ -5,7 +5,7 @@ name = "saaq-latent"
 version = "0.1.0"
 edition = "2024"
 description = "Standalone SAAQ latent-telemetry calibration + CSV emission, extracted from corinth-canal/src/latent.rs."
-license = "MIT OR Apache-2.0"
+license = "GPL-3.0-only"
 readme = "README.md"
 
 [dependencies]

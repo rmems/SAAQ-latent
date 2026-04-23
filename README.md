@@ -134,4 +134,4 @@ The unit tests in `src/lib.rs` cover:
 
 ## License
 
-MIT OR Apache-2.0.
+GPL-3.0-only.
